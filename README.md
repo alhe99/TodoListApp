@@ -13,9 +13,8 @@ Now you can start the app with the CLI command `ionic serve`. It'll compile the 
 
 ### Progressive Web App
 
-1. Un-comment [these lines](https://github.com/ionic-team/ionic2-app-base/blob/master/src/index.html#L21)
-2. Run `npm run ionic:build --prod`
-3. Push the `www` folder to your hosting service
+1. Run `npm run ionic:build --prod`
+2. Push the `www` folder to your hosting service
 
 ### Android
 
